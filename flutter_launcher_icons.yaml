@@ -1,0 +1,4 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/logo_conteo.png"  # Ruta de tu ícono
